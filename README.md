@@ -80,9 +80,9 @@ Browser Local Storage	Persistent data storage <br />
 📋 Prerequisites <br />
 Before running the project, make sure you have the following installed:
 
-Node.js (preferably the latest LTS version)
-npm (included with Node.js)
-Visual Studio Code or any other code editor
+Node.js (preferably the latest LTS version), 
+npm (included with Node.js), 
+Visual Studio Code or any other code editor and
 A modern web browser
 
 Verify your Node.js and npm installations:
