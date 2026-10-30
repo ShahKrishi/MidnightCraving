@@ -98,7 +98,7 @@ Follow these steps to run Midnight Cravings locally.
 1. Clone or Download the Repository
 Clone the project using Git:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/ShahKrishi/MidnightCraving.git
 ```
 Alternatively, download the repository as a ZIP file and extract it.
 
